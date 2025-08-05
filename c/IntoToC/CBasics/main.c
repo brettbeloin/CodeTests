@@ -22,8 +22,11 @@ int main() {
   // recursive_function(n);
   // StructPointer();
 
-  char file[20] = "../Files/Test.txt";
-  OpenFile(file);
+  FILE *FPtr;
+
+  char filePath[20] = "Files/Test.txt";
+  PrintFile(OpenFile(filePath, "r"));
+  WriteToFile("Hello world!!!", "Files/Empty");
 
   return 0;
 }

@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    background: black;
+    color: white;
+}
+
+header {
+    text-align: center;
+    font-size: 90%;
+}
+
+#box {
+    height: 60%;
+    width: 30%;
+    background: red;
+}
+
+#Counter {
+    height: initial;
+    width: inherit;
+    background: blue;
+}
+
+footer {
+    text-align: center;
+    font-size: 90%;
+}

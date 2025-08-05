@@ -1,15 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 
-extern char file[20];
-
 extern FILE *FPtr;
+extern char filePath[20];
+extern char fileContent[sizeof(&FPtr)];
 
-/*
-FILE OpenFile(char file[20]);
-FILE WriteToFile(char file[20]);
-FILE CloseFile(char file[20]);
-*/
-void OpenFile(char file[20]);
-void WriteToFile(char file[20]);
-void CloseFile(char file[20]);
+FILE *OpenFile(const char fileName[20], const char mode[1]);
+void WriteToFile(char message[256], char fileName[20]);
+void PrintFile(FILE *FPtr);
