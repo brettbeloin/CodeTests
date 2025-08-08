@@ -14,11 +14,3 @@ fn ru(n: i32, u: i32) -> i32 {
         1
     }
 }
-
-fn factorial(n: u32) -> u32 {
-    if n == 0 {
-        1
-    } else {
-        n * factorial(n - 1)
-    }
-}

@@ -1,0 +1,7 @@
+/home/brett/Documents/CodeTests/rusty/gettingRustyWithIT/target/debug/build/raylib-sys-24222efa9875579b/out/lib/libraylib.a
+/home/brett/Documents/CodeTests/rusty/gettingRustyWithIT/target/debug/build/raylib-sys-24222efa9875579b/out/include/raylib.h
+/home/brett/Documents/CodeTests/rusty/gettingRustyWithIT/target/debug/build/raylib-sys-24222efa9875579b/out/include/rlgl.h
+/home/brett/Documents/CodeTests/rusty/gettingRustyWithIT/target/debug/build/raylib-sys-24222efa9875579b/out/include/raymath.h
+/home/brett/Documents/CodeTests/rusty/gettingRustyWithIT/target/debug/build/raylib-sys-24222efa9875579b/out/lib/pkgconfig/raylib.pc
+/home/brett/Documents/CodeTests/rusty/gettingRustyWithIT/target/debug/build/raylib-sys-24222efa9875579b/out/lib/cmake/raylib/raylib-config-version.cmake
+/home/brett/Documents/CodeTests/rusty/gettingRustyWithIT/target/debug/build/raylib-sys-24222efa9875579b/out/lib/cmake/raylib/raylib-config.cmake
