@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -Iheaders
 
-SOURCES = File.c test.c struct.c main.c
+SOURCES = main.c
 OBJECTS = $(SOURCES:.c=.o)
 EXECUTABLE = program
 
