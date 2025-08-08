@@ -1,1 +1,1 @@
-this porject is to put all my learing or practice code in one place between multiple computers.
+This project is to put all my learning or practice code in one place between multiple computers.
